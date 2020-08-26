@@ -3,4 +3,5 @@ create table dept(
   dname      varchar2(14),  
   loc        varchar2(13),  
   constraint pk_dept primary key (deptno)  
-)
+);
+exit;
