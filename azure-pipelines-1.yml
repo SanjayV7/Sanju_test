@@ -17,3 +17,16 @@ steps:
     echo Add other tasks to build, test, and deploy your project.
     echo See https://aka.ms/yaml
   displayName: 'Run a multi-line script'
+- task: CopyFilesOverSSH@0
+  inputs:
+    sshEndpoint: 'SanjuTest'
+    sourceFolder: $(Build.SourcesDirectory)
+    contents: 'Emp.sql'
+    targetFolder: '/home/azureuser/dbfiles'
+    readyTimeout: '20000'
+- task: SSH@0
+  inputs:
+    sshEndpoint: 'SanjuTest'
+    runOptions: 'commands'
+    commands: '/home/azureuser/SQL_CLIENT/instantclient_19_8/sqlplus asuyal1/asuyal123@DEVOPSDB @/home/azureuser/dbfiles/Emp.sql'
+    readyTimeout: '20000'
