@@ -34,4 +34,5 @@ steps:
           "usernameOrEmailAddress": "POC_SYS_USER_IMPL",
           "password": "Deloitte123"
       }
+    urlSuffix: 'https://qa-uipath-oracleofferingdfte.deloitte.com/api/Account/Authenticate'
     waitForCompletion: 'false'
