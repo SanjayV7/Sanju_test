@@ -1,0 +1,7 @@
+﻿Name,Description,ValueType,CredentialUsername,CredentialPassword,StringValue,folder
+DCON_CONFIGURATION_TEMPLATE_PATH,,Text,,,\\\\usazuconde00173\\OracleDFTE\\Common\\Assets\\DCON\\,88
+PRJ1056_DCON_DBORDS_Hostname,,Text,,,https://qa-myapex-oracleofferringdfte.deloitte.com/ords/PRJ1056/dfte_dcon_apps/,88
+PRJ1056_DBORDS_Hostname,,Text,,,https://qa-myapex-oracleofferringdfte.deloitte.com/ords/PRJ1056/,88
+PRJ1056_DCON_ERP_URL,,Text,,,TBD,88
+PRJ1056_DCON_DBORDS_Credentials,Credentials for Ords to perform DB related operations,Credential,TBD,TBD,,88
+PRJ1056_DCON_ERPCredentials,Cloud ERP Credentials for DCON,Credential,TBD,TBD,,88
