@@ -1,4 +1,4 @@
 ﻿folder,Name,Description,ValueType,CredentialUsername,CredentialPassword,StringValue
 POC_AZURE_DEVOPS,PRJ1056_DBORDS_Hostname_oct_test,,Text,aaa,,https://qa-myapex-oracleofferringdfte.deloitte.com/ords/PRJ1056/
 POC_AZURE_DEVOPS,PRJ1056_DCON_ERP_URL_oct_test,Desc,Text,,,TBD
-POC_AZURE_DEVOPS,PRJ1056_DCON_DBORDS_Credentials_oct_test,Desc,Credential,TBD,TBD,
+POC_AZURE_DEVOPS,PRJ1056_DCON_DBORDS_Credentials_oct_test,Desc1,Credential,TBD,TBD,
