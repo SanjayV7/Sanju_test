@@ -1,0 +1,93 @@
+{
+    
+    "commonAssetPath" : "\\\\usazuconde00173\\OracleDFTE\\Common\\OnboardingDocuments",
+    "releasePath":"\\\\usazuconde00173\\DFTE",
+    "projectPath":"\\\\usazuconde00173\\OracleDFTE",
+    "applicationList":"DCON,DTEST,DPERF,DPLOY,DPULSE,TALOS,DREC,DCLEAN,DPOC,DSPEC,DTRAIN,DGEN,DEX,DCODE,DROLE,DFTE-PLATFORM-TECH",
+    "projectSG" :
+    [
+        {
+            "User" : "SG-US-Oracle Offering DFTE-Project User-",
+            "Maintainer" : "SG-US-Oracle Offering DFTE-Project Maintainer-",
+            "Reader" : "SG-US-Oracle Offering DFTE-Project Reader-"
+        }
+    ],
+    "applicationSG" :
+    [
+        {
+            "User" : "SG-US Oracle Offering DFTE-User-",
+            "Maintainer" : "SG-US Oracle Offering DFTE-Maintainer-",
+            "Reader" : "SG-US Oracle Offering DFTE-Reader-"
+        }
+    ],
+    "systemUsers" : "USCONDFTE1APP,USCONDFTE2APP,USCONDFTE3APP,USCONDFTE4APP,USCONDFTE5APP,USCONDFTEAPP,",
+    "botAccounts" :
+    [
+        {
+            "app" : "DCON",
+            "account" : "USDFTECDAPP"
+        },
+        {
+            "app" : "DEX",
+            "account" : "USDFTEEXAPP"
+        },
+        {
+            "app" : "DGEN",
+            "account" : "USDFTEGENAPP"
+        },
+        {
+            "app" : "DTRAIN",
+            "account" : "USDFTETRNAPP"
+        },
+        {
+            "app" : "DSPEC",
+            "account" : "USDFTESPCAPP"
+        },
+        {
+            "app" : "DPOC",
+            "account" : "USDFTEPOCAPP"
+        },
+        {
+            "app" : "DCLEAN",
+            "account" : "USDFTECLNAPP"
+        },
+        {
+            "app" : "DREC",
+            "account" : "USDFTERECAPP"
+        },
+        {
+            "app" : "TALOS",
+            "account" : "USDFTETALAPP"
+        },
+        {
+            "app" : "DPULSE",
+            "account" : "USDFTEPULAPP"
+        },
+        {
+            "app" : "DPLOY",
+            "account" : "USDFTEDLYAPP"
+        },
+        {
+            "app" : "DPERF",
+            "account" : "USDFTEPRFAPP"
+        },
+        {
+            "app" : "DTRAIN",
+            "account" : "USDFTETSTAPP"
+        },
+        {
+            "app" : "DCON",
+            "account" : "USDFTECONAPP"
+        },
+        {
+            "app" : "DTRAIN",
+            "account" : "USDFTEPOCAPP"
+        },
+        {
+            "app" : "DFTE-PLATFORM-TECH",
+            "account" : "USDFTEPFHAPP"
+        }
+    ]
+ 
+    
+}

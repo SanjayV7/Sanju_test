@@ -1,0 +1,17 @@
+{
+  "name": "securitywbapp",
+  "version": "1.0.0",
+  "description": "Security Workbench App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-powershell": "^4.0.0",
+    "python-shell": "^2.0.1",
+    "request": "^2.88.2",
+    "superagent": "^5.2.2"
+  }
+}

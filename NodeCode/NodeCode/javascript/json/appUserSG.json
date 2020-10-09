@@ -1,0 +1,62 @@
+[
+    {
+        "appName": "TALOS",
+        "sgName": "SG-US Oracle Offering DFTE-Maintainer-TALOS"
+    },
+    {
+        "appName": "DTRAIN",
+        "sgName": "SG-US Oracle Offering DFTE-Maintainer-DTRAIN"
+    },
+    {
+        "appName": "DTEST",
+        "sgName": "SG-US Oracle Offering DFTE-Maintainer-DTEST"
+    },
+    {
+        "appName": "DSPEC",
+        "sgName": "SG-US Oracle Offering DFTE-Maintainer-DSPEC"
+    },
+    {
+        "appName": "DROLE",
+        "sgName": "SG-US Oracle Offering DFTE-Maintainer-DROLE"
+    },
+    {
+        "appName": "DREC",
+        "sgName": "SG-US Oracle Offering DFTE-Maintainer-DREC"
+    },
+    {
+        "appName": "DPULSE",
+        "sgName": "SG-US Oracle Offering DFTE-Maintainer-DPULSE"
+    },
+    {
+        "appName": "DPOC",
+        "sgName": "SG-US Oracle Offering DFTE-Maintainer-DPOC"
+    },
+    {
+        "appName": "DPLOY",
+        "sgName": "SG-US Oracle Offering DFTE-Maintainer-DPLOY"
+    },
+    {
+        "appName": "DPERF",
+        "sgName": "SG-US Oracle Offering DFTE-Maintainer-DPERF"
+    },
+    {
+        "appName": "DGEN",
+        "sgName": "SG-US Oracle Offering DFTE-Maintainer-DGEN"
+    },
+    {
+        "appName": "DEX",
+        "sgName": "SG-US Oracle Offering DFTE-Maintainer-DEX"
+    },
+    {
+        "appName": "DCON",
+        "sgName": "SG-US Oracle Offering DFTE-Maintainer-DCON"
+    },
+    {
+        "appName": "DCODE",
+        "sgName": "SG-US Oracle Offering DFTE-Maintainer-DCODE"
+    },
+    {
+        "appName": "DCLEAN",
+        "sgName": "SG-US Oracle Offering DFTE-Maintainer-DCLEAN"
+    }
+]
